@@ -1,0 +1,58 @@
+/* media ََQuiry */
+
+@media(max-width:768px)
+{
+    .slide .item img
+    {
+        /*width: 500px;*/
+        height: 500px;
+    }
+    .slide .item h1 {
+        /*display: none;*/
+        font-size: 25px;
+        position: relative;
+        /*bottom: -28px;*/
+    }
+    .slide .item p
+    {
+        font-size: 13px;
+        position: relative;
+        top: 50px;
+    }
+    .statc .edit
+    {
+        margin-bottom: 50px;
+    }
+
+}
+
+
+
+@media(min-width:769px)and (max-width:991px)
+{
+
+    .slide .item h1 {
+        /*display: none;*/
+        font-size: 30px;
+
+    }
+    .slide .item p
+    {
+        font-size: 20px;
+
+    }
+
+}
+
+
+@media(min-width:992px)and (max-width:1199px)
+{
+  
+
+}
+
+
+@media(max-width:1200px)
+{
+
+}

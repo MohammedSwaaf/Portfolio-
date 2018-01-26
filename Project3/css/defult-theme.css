@@ -1,0 +1,39 @@
+/**** Start defult Color ****/
+.navbar-nav > li > .dropdown-menu
+{
+        border-top: 1px solid #403ce6;
+}
+.testmonials .carousel-indicators li
+{
+    border: 1PX solid #403ce6
+}
+.opt-box .color
+{
+    border: 3px solid #403ce6;
+}
+.opt-box .color ul li,
+.opt-box .gear-option,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu .divider
+{
+    background-color: #403ce6;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-brand,
+.section,.features .feat span,
+.testmonials h2,.testmonials span,
+.price h1,.statc .data h2,
+.sup h1,.skills h1,.footer h3,
+.footer .social li:hover,
+.media a i:hover,
+.footer .copy span,
+.our_team .team .person a:hover
+{
+    color:#403ce6
+}
+
+/**** End defult Color ****/
